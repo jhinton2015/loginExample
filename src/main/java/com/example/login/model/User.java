@@ -12,6 +12,7 @@ import java.util.Set;
 @Entity
 @Table(name = "user")
 public class User {
+    //not even sure whats going on here
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
